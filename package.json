@@ -1,0 +1,23 @@
+{
+  "name": "projectmap",
+  "version": "1.0.0",
+  "description": "Testing map using testcafe",
+  "main": "index.js",
+  "dependencies": {
+    "testcafe": "^1.6.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "\"testcafe chrome Tests/**/* -e"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/001anj/projectMap.git"
+  },
+  "author": "Anjo Mathew",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/001anj/projectMap/issues"
+  },
+  "homepage": "https://github.com/001anj/projectMap#readme"
+}
